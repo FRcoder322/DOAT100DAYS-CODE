@@ -14,8 +14,6 @@ print(type(empty_set))
 empty_set= {}
 print(type(empty_set))
 
-
-
 #creating sets with multple elements
 cars={'toyota','Nissan','cayene','Bmw'}
 print(len(cars))
@@ -54,8 +52,8 @@ cars=set(cars)
 print(cars)
 
 #Joining sets:using union (OR)
-
 cars={'toyota','Nissan','cayene','Bmw'}
 country={'japan','Germany','italy'}
 print(cars.union(country))
+
 
