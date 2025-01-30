@@ -38,6 +38,7 @@ def generate_full_name():
     full_name = first_name + space + last_name
     print(full_name)
 
+ 
 # calling defined function
 
 generate_full_name()
